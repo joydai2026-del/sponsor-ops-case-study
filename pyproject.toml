@@ -1,0 +1,21 @@
+[project]
+name = "sponsor-ops-patterns"
+version = "1.0.0"
+description = "Standalone illustrative patterns from a sponsor-operations platform case study"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.setuptools]
+packages = [
+    "patterns.slot_capacity",
+    "patterns.rep_holds",
+    "patterns.revision_bound_approval",
+    "patterns.tiered_pricing",
+]
