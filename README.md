@@ -5,6 +5,8 @@ business with a 200,000+ reader list. It replaced a hand-run Notion process with
 public booking storefront and an internal operations console, and it went to
 production with four staff admins on it.
 
+![Sponsor Ops demo: a sponsor books a placement in the storefront and it lands in the admin console](docs/sponsor-ops-live-demo.gif)
+
 **This repository is a write-up, not the product.** None of the production code, data,
 schema, or business information is here. What is here is the reasoning, and four
 patterns from the design rebuilt as standalone, tested, runnable illustrations. Those
