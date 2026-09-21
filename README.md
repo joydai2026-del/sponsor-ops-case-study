@@ -7,6 +7,8 @@ production with four staff admins on it.
 
 ![Sponsor Ops demo: a sponsor books a placement in the storefront and it lands in the admin console](docs/sponsor-ops-live-demo.gif)
 
+**56-second demo video:** [Watch booking flow into Mission Control](docs/sponsor-ops-demo.mp4)
+
 **This repository is a write-up, not the product.** None of the production code, data,
 schema, or business information is here. What is here is the reasoning, and four
 patterns from the design rebuilt as standalone, tested, runnable illustrations. Those
