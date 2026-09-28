@@ -9,7 +9,7 @@ production with four staff admins on it.
 
 **56-second demo video:** [Watch booking flow into Mission Control](docs/sponsor-ops-demo.mp4)
 
-https://github.com/user-attachments/assets/f7ca6ef8-7415-4271-a9fb-bd8543e2bef6
+https://github.com/user-attachments/assets/ee531849-e144-41e5-8b0f-9d87fb2d1583
 
 **This repository is a write-up, not the product.** None of the production code, data,
 schema, or business information is here. What is here is the reasoning, and four
